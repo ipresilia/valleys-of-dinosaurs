@@ -5,6 +5,7 @@
 body {
     background-color: #e0dacc;
     text-align: center;
+    font-family: Arial;
 }
 
 h1 {
@@ -16,4 +17,10 @@ h1 {
 a {
   text-decoration: none;
   color: #3d321a;
+}
+
+ul li {
+  display: block;
+  text-decoration: none;
+
 }
